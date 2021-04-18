@@ -1,7 +1,18 @@
 <?php
-$dbuser="root";
-$dbpass="";
-$host="localhost";
-$db="hostel";
-$mysqli =new mysqli($host,$dbuser, $dbpass, $db);
+// Local Connnection
+
+// $dbuser="z";
+// $dbpass="";
+// $host="localhost";
+// $db="hostel";
+// $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
+
+
+//	Remote Connection
+
+	$dbuser="KcDavXgRAW";
+	$dbpass="5lQYOlHSUS";
+	$host="remotemysql.com";
+	$db="KcDavXgRAW";
+	$mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 ?>
