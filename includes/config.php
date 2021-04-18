@@ -8,7 +8,7 @@
 // $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 
 
-//	Remote Connection
+//	Remote Connection LIVE
 
 	$dbuser="KcDavXgRAW";
 	$dbpass="5lQYOlHSUS";
